@@ -1,0 +1,71 @@
+# See: http://displaytag.sourceforge.net/11/team-list.html
+# See: https://web.archive.org/web/20190123210801/http://displaytag.sourceforge.net/11/team-list.html
+fgiust = Fabrizio Giustina <fgiust@users.sourceforge.net>
+rapruitt = Andy Pruitt <rapruitt@users.sourceforge.net>
+jluix = Jorge Barroso <jluix@users.sourceforge.net>
+javabencom = Benjamin Simpson <javabencom@users.sourceforge.net>
+pathoss = Mathias Bogaert <pathoss@users.sourceforge.net>
+ed-hill = Ed Hill <ed-hill@users.sourceforge.net>
+
+# See: https://sourceforge.net/p/displaytag/code/HEAD/tree/tags/displaytag-1.0/displaytag/project.xml#l115
+# See: https://web.archive.org/web/20190123213301/https://sourceforge.net/p/displaytag/code/HEAD/tree/tags/displaytag-1.0/displaytag/project.xml#l115
+johnryork = John York <johnryork@users.sourceforge.net>
+
+# See: https://sourceforge.net/p/displaytag/code/HEAD/tree/tags/displaytag-1.0/displaytag/project.xml#l87
+# See: https://web.archive.org/web/20190123213301/https://sourceforge.net/p/displaytag/code/HEAD/tree/tags/displaytag-1.0/displaytag/project.xml#l87
+mraible = Matt Raible <mraible@users.sourceforge.net>
+
+# See: https://sourceforge.net/p/displaytag/mailman/message/4817483/
+# See: https://web.archive.org/web/20190123213742/https://sourceforge.net/p/displaytag/mailman/message/4817483/
+scottnsmith = Scott Smith <scottnsmith@users.sourceforge.net>
+
+# Brad Smith uses a bgsmith@... email, and a SourceForge user with
+# the same username exists. I'm only assuming these are all the same
+# person.
+#
+# See: https://sourceforge.net/p/displaytag/mailman/message/8532297/
+# See: https://web.archive.org/web/20190123211837/https://sourceforge.net/p/displaytag/mailman/message/8532297/
+bgsmith = Brad Smith <bgsmith@users.sourceforge.net>
+
+# Not sure epesh ever used a real name.
+#
+# Note that Matt Raible's mail client quoted "epesh@..." rather than
+# "Their Name <epesh@...>"
+#
+# See: https://sourceforge.net/p/displaytag/mailman/message/4817279/
+# See: https://web.archive.org/web/20190123212720/https://sourceforge.net/p/displaytag/mailman/message/4817279/
+#
+# Also put @author lines in source code using "epesh"
+#
+# See: https://sourceforge.net/p/displaytag/mailman/message/4818091/
+# See: https://web.archive.org/web/20190123212843/https://sourceforge.net/p/displaytag/mailman/message/4818091/
+#
+# Also referred to by others as "epesh"
+#
+# See: https://sourceforge.net/p/displaytag/mailman/message/4817946/
+# See: https://web.archive.org/web/20190123212946/https://sourceforge.net/p/displaytag/mailman/message/4817946/
+epesh = epesh <epesh@users.sourceforge.net>
+
+# assuming to also be epesh because of where they are in svn log
+# See:
+# ------------------------------------------------------------------------
+# r4 | epesh | 2003-02-03 20:35:03 -0500 (Mon, 03 Feb 2003) | 2 lines
+# 
+# Initial revision
+# 
+# ------------------------------------------------------------------------
+# r3 | root | 2003-02-03 03:13:13 -0500 (Mon, 03 Feb 2003) | 1 line
+# 
+# initial checkin
+# ------------------------------------------------------------------------
+# r2 | root | 2003-02-03 03:13:13 -0500 (Mon, 03 Feb 2003) | 2 lines
+# 
+# initial checkin
+# 
+# ------------------------------------------------------------------------
+# r1 | (no author) | 2003-02-03 03:13:13 -0500 (Mon, 03 Feb 2003) | 1 line
+# 
+# New repository initialized by cvs2svn.
+# ------------------------------------------------------------------------
+(no author) = no author <epesh@users.sourceforge.net>
+root = root <epesh@users.sourceforge.net>
